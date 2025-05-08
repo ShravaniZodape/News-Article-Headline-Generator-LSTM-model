@@ -8,7 +8,7 @@ This project explores natural language generation (NLG) techniques to automatica
 
 ## Dataset
 
-- **Source:** [Kaggle - News Headlines Dataset](https://www.kaggle.com/)  
+- **Source:** [Combined News Headlines Dataset](https://drive.google.com/file/d/1OImU4gEL5PdTR_PDvCgP8H_LzI5KHNYg/view?usp=drive_link)  
 - Preprocessing included tokenization, truncation, stopword removal, and padding.
 
 ## Features
